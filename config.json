@@ -1,0 +1,10 @@
+{
+  "token": " Discord bot token: https://discord.com/developers/applications ",
+  "dbHost": "localhost",
+  "dbUser": " Datenbank Benutzer Name ",
+  "dbPassword": " Datenbank Password ",
+  "dbName": " Datenbank Name ",
+  "backupFolder": "./backups",
+  "backupChannelId": " Backup Channel iD ",
+  "backupSchedule": "0 0 * * *"
+}
